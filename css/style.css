@@ -12649,3 +12649,10 @@ textarea.form-control {
     stroke-dashoffset: -136px;
   }
 }
+
+/* Custom added by me, to make scrolling work on mobile */
+.owl-carousel .owl-stage,
+.owl-carousel.owl-drag .owl-item {
+  -ms-touch-action: auto;
+  touch-action: auto;
+}
