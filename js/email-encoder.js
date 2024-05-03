@@ -9,4 +9,5 @@ function openMailer(element, subject) {
   let y = decode(subject);
   element.setAttribute("href", y);
   element.setAttribute("onclick", "");
+  element.setAttribute("rel", "noreferrer noopener");
 }
