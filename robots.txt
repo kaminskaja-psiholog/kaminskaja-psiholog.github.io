@@ -1,0 +1,13 @@
+User-Agent: *
+Disallow: /js/
+Disallow: /css/
+Disallow: /scss/
+Disallow: /fonts/
+Disallow: /readme.txt
+Disallow: /single.html
+Disallow: /main.html
+Disallow: /CNAME
+Disallow: /prepros-6.config
+Disallow: /.gitignore
+
+Sitemap: https://www.kaminskaja-psiholog.eu/sitemap.xml
