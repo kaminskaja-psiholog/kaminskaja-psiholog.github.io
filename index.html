@@ -1,3 +1,5 @@
+---
+---
 <!DOCTYPE html>
 <html lang="ru">
   <head>
@@ -264,95 +266,34 @@
           </div>
         </div>
         <div class="row d-flex">
+          {% for i in (0..2) %}
           <div class="col-md-4 d-flex ftco-animate">
             <div class="blog-entry justify-content-end">
               <a
-                href="articles/Арт-терапия как метод работы с негативными эмоциями.html"
+                href="{{ site.posts[i].url }}"
                 class="block-20"
-                style="background-image: url('images/blog/art.jpg')"
+                style="background-image: url('{{ site.posts[i].image }}')"
               >
               </a>
               <div class="text mt-3 float-right d-block">
                 <div class="d-flex align-items-center mb-3 meta">
                   <p class="mb-0">
-                    <span class="mr-2">15.05.2024</span>
-                    <!-- <a href="#" class="mr-2">Admin</a>
-                    <a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a> -->
+                    <span class="mr-2">{{ site.posts[i].date | date: site.default_date_format }}</span>
                   </p>
                 </div>
                 <h3 class="heading">
                   <a
-                    href="articles/Арт-терапия как метод работы с негативными эмоциями.html"
-                    >Арт-терапия как метод работы с негативными эмоциями</a
+                    href="{{ site.posts[i].url }}"
+                    >{{ site.posts[i].title }}</a
                   >
                 </h3>
                 <p>
-                  Арт-терапия широко используется для нормализации эмоционального состояния и для проработки негативных
-                  эмоций. Этот метод прост в использовании и подходит для широкой категории клиентов, независимо от
-                  того, есть у них творческие способности, или нет.
+                  {{ site.posts[i].excerpt }}
                 </p>
               </div>
             </div>
           </div>
-          <div class="col-md-4 d-flex ftco-animate">
-            <div class="blog-entry justify-content-end">
-              <a
-                href="articles/Рефрейминг - метод работы с негативными эмоциями.html"
-                class="block-20"
-                style="background-image: url('images/blog/reframing.jpg')"
-              >
-              </a>
-              <div class="text mt-3 float-right d-block">
-                <div class="d-flex align-items-center mb-3 meta">
-                  <p class="mb-0">
-                    <span class="mr-2">11.05.2024</span>
-                    <!-- <a href="#" class="mr-2">Admin</a>
-                    <a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a> -->
-                  </p>
-                </div>
-                <h3 class="heading">
-                  <a
-                    href="articles/Рефрейминг - метод работы с негативными эмоциями.html"
-                    >Рефрейминг - метод работы с негативными эмоциями
-                  </a>
-                </h3>
-                <p>
-                  Каждый день мы можем ощущать множество негативных эмоций. При этом они могут создать стойкий
-                  эмоциональный фон, в данном случае со знаком минус. Это создаёт напряжение, утомляет, может приводить
-                  к возникновению депрессивных состояний. Как же можно проработать негативные эмоции?
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 d-flex ftco-animate">
-            <div class="blog-entry justify-content-end">
-              <a
-                href="articles/Воспоминание как ресурс.html"
-                class="block-20"
-                style="background-image: url('images/blog/memories.jpg')"
-              >
-              </a>
-              <div class="text mt-3 float-right d-block">
-                <div class="d-flex align-items-center mb-3 meta">
-                  <p class="mb-0">
-                    <span class="mr-2">08.05.2024</span>
-                    <!-- <a href="#" class="mr-2">Admin</a>
-                    <a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a> -->
-                  </p>
-                </div>
-                <h3 class="heading">
-                  <a
-                    href="articles/Воспоминание как ресурс.html"
-                    >Воспоминание как ресурс
-                  </a>
-                </h3>
-                <p>
-                  Негативные эмоции - неотъемлемая часть нашей жизни. Невозможно жить никогда их не ощущая, но позволять
-                  им доминировать и создавать стойкий негативный фон тоже не стоит. Можно ли контролировать эмоции?
-                </p>
-              </div>
-            </div>
-          </div>
+          {% endfor %}
         </div>
       </div>
     </section>
