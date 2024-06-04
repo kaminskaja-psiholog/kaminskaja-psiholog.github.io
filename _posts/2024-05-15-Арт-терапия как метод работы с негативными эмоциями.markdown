@@ -4,7 +4,6 @@ title: "Арт-терапия как метод работы с негативн
 image: "images/blog/art.jpg"
 facebook_link: "https://www.facebook.com/permalink.php?story_fbid=pfbid0W4gtBa4LvxWJMbuz8Uw42V2WkDhFs2PiCbxUvUKddwBmPEy9aZnF951JyiPPcuaMl&id=100090928022478"
 categories: арт-терапия эмоции
-excerpt_separator: <!--more-->
 ---
 
 Арт-терапия широко используется для нормализации эмоционального состояния и для проработки негативных эмоций. Этот метод прост в использовании и подходит для широкой категории клиентов, независимо от того, есть у них творческие способности, или нет.

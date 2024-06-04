@@ -4,7 +4,6 @@ title: "Рефрейминг - метод работы с негативными
 image: "images/blog/reframing.jpg"
 facebook_link: "https://www.facebook.com/permalink.php?story_fbid=pfbid0FdbLz81pyg7iXsjQPsa2aVjhSqvp8wA4hEByWhXMo3KHN7n3Rprzr9rwjbQuZBbyl&id=100090928022478"
 categories: рефрейминг эмоции
-excerpt_separator: <!--more-->
 ---
 
 Каждый день мы можем ощущать множество негативных эмоций. При этом они могут создать стойкий эмоциональный фон, в данном случае со знаком минус. Это создаёт напряжение, утомляет, может приводить к возникновению депрессивных состояний.

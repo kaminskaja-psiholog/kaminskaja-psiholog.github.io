@@ -4,7 +4,6 @@ title: "Воспоминание как ресурс"
 image: "images/blog/memories.jpg"
 facebook_link: "https://www.facebook.com/permalink.php?story_fbid=pfbid029XeDHHfCYMHdcPysVAKWZeyWraAfeXS7Tou4eNUQpPxExhqLQNHKi5oKiryj2UrZl&id=100090928022478"
 categories: воспоминание
-excerpt_separator: <!--more-->
 ---
 
 Негативные эмоции - неотъемлемая часть нашей жизни. Невозможно жить никогда их не ощущая, но позволять им доминировать и создавать стойкий негативный фон тоже не стоит.
