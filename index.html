@@ -14,7 +14,23 @@
 
       gtag("config", "G-ZJF3TTQ1QC");
     </script>
-    <!-- Google tag (gtag.js) -->
+    <!-- End of Google tag (gtag.js) -->
+
+    <!-- Event snippet for Click Contact conversion page -->
+    <script>
+      function gtag_report_conversion(url) {
+        var callback = function () {
+          if (typeof (url) != 'undefined') {
+            window.location = url;
+          }
+        };
+        gtag('event', 'conversion', {
+          'send_to': 'AW-16627534869/S9oICJ7BvvcZEJWY0Pg9',
+          'event_callback': callback
+        });
+        return false;
+      }
+    </script>
 
     <title>Ольга Каминская - психолог в Таллинне</title>
     <meta name="description" content="Психологическая помощь онлайн. Таллин, Таллинн, Эстония. Психолог в Таллинне. Психолог в Таллине." />
@@ -74,7 +90,7 @@
               <a href="index.html#blog-section" class="nav-link"><span>Статьи</span></a>
             </li>
             <li class="nav-item">
-              <a href="index.html#contact-section" class="nav-link"><span>Контакт</span></a>
+              <a href="index.html#contact-section" class="nav-link" onclick="gtag_report_conversion()"><span>Контакт</span></a>
             </li>
           </ul>
         </div>
@@ -100,7 +116,7 @@
                 <div class="text">
                   <h1 class="mb-4 mt-3">Психологическая помощь</h1>
                   <p>
-                    <a href="#contact-section" class="btn btn-primary">Записаться на консультацию</a>
+                    <a href="#contact-section" class="btn btn-primary" onclick="gtag_report_conversion()">Записаться на консультацию</a>
                   </p>
                 </div>
               </div>
