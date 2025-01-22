@@ -2044,3 +2044,22 @@ textarea.form-control {
   -ms-touch-action: auto;
   touch-action: auto;
 }
+
+/* Custom added by me, to use smaller image on mobile */
+.one-third {
+	&.order-md-last {
+	  &.img {
+		@media (min-width: 1200px) {
+		  background-image: url('../photos/main-large.jpg');
+		}
+
+		@media (min-width: 768px) and (max-width: 1199px) {
+			background-image: url('../photos/main-large.jpg');
+		}
+
+		@media (max-width: 767px) {
+		  background-image: url('../photos/main-small.jpg');
+		}
+	  }
+	}
+  }
