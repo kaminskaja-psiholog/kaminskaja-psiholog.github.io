@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: article
 title: "Почему мы постоянно сравниваем себя с другими?"
 image: "images/blog/comparing.jpg"
 facebook_link: "https://www.facebook.com/permalink.php?story_fbid=pfbid0291K7dSPxwfc61ZvjAAqYSBy978mdrDXk5e91wwRu5X5DTucD3aVDGyxE4oeHijjal&id=100090928022478"
