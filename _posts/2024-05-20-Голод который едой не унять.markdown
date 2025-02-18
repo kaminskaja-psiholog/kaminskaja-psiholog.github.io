@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: article
 title: "Голод, который едой не унять?"
 image: "images/blog/hunger.jpg"
 facebook_link: "https://www.facebook.com/share/p/eMJjDF8omTAud7y4/"
@@ -10,8 +10,6 @@ categories: тревога
 Разбираемся с психологическими причинами.
 
 <!--more-->
-
-<img src="{{ page.image }}" alt="" class="img-fluid">
 
 Кроме физиологического голода, который возникает когда в крови падает уровень глюкозы, у нас может возникать ложный голод, обусловленный множеством психологических причин:
 

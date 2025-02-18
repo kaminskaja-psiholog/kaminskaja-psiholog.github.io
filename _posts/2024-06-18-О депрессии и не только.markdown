@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: article
 title: "О депрессии и не только"
 image: "images/blog/depression.jpg"
 facebook_link: "https://www.facebook.com/share/p/kUwjptK2tHjHwJ9s/"
@@ -9,8 +9,6 @@ categories: депрессия
 У всех нас иногда бывают моменты, когда  жизнь кажется пустой и серой, всё воспринимается в негативном ключе. Но всегда ли в таких случаях речь идёт о депрессии?
 
 <!--more-->
-
-<img src="{{ page.image }}" alt="" class="img-fluid">
 
 Следует различать такие понятия, как депрессия, депрессивное состояние и просто плохое настроение.
 

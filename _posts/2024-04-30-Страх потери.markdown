@@ -1,16 +1,14 @@
 ---
-layout: default
+layout: article
 title: "Страх потери"
 image: "images/blog/fear_of_losing.jpg"
 facebook_link: "https://www.facebook.com/share/p/YCNnNp9cNBxHohHZ/"
-categories: тревога
+categories: страх потери
 ---
 
 Страх потери - естественное чувство, которое ситуативно возникает у всех. Причем чем важнее объект, тем сильнее страх его потерять.
 
 <!--more-->
-
-<img src="{{ page.image }}" alt="" class="img-fluid">
 
 Страх потери может размещаться в разных жизненных сферах: работа, отношения, здоровье, деньги...
 

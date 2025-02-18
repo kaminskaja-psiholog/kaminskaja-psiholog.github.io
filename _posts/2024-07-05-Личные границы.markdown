@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: article
 title: "Личные границы"
 image: "images/blog/personal_space.jpg"
 facebook_link: "https://www.facebook.com/share/p/9SKxL2acFX4wKbDB/"
@@ -9,8 +9,6 @@ categories: личные границы
 Для того, чтобы соблюдать личные границы других, для этого начала нужно выстроить свои собственные.
 
 <!--more-->
-
-<img src="{{ page.image }}" alt="" class="img-fluid">
 
 Личные границы позволяют отделить собственное "Я" от "Я" других.
 

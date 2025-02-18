@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: article
 title: "Почему сложно уйти от абьюзера?"
 image: "images/blog/abuser.jpg"
 facebook_link: "https://www.facebook.com/permalink.php?story_fbid=pfbid0XNvApbMtyQyywYJZ1UPEhyrfjZwhCX3BSVFzYhdDAyi4x4pwJmaJFpQpxRNZaTnSl&id=100090928022478"
@@ -9,8 +9,6 @@ categories: абьюзер
 Часто женщины остаются в отношениях, которые абсолютно их не удовлетворяют, из-за страха остаться одной. При этом они терпят абьюз, измены, унижение, иногда даже физическое насилие. Оставаясь в деструктивных отношениях они лишают себя шанса на другую,  спокойную или даже счастливую жизнь.
 
 <!--more-->
-
-<img src="{{ page.image }}" alt="" class="img-fluid">
 
 Почему же страх одиночества так силён, что заставляет терпеть неприемлемое поведение партнёра?
 

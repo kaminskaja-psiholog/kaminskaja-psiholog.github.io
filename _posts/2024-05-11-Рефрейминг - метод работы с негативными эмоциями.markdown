@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: article
 title: "Рефрейминг - метод работы с негативными эмоциями"
 image: "images/blog/reframing.jpg"
 facebook_link: "https://www.facebook.com/permalink.php?story_fbid=pfbid0FdbLz81pyg7iXsjQPsa2aVjhSqvp8wA4hEByWhXMo3KHN7n3Rprzr9rwjbQuZBbyl&id=100090928022478"
@@ -10,8 +10,6 @@ categories: рефрейминг эмоции
 Как же можно проработать негативные эмоции?
 
 <!--more-->
-
-<img src="{{ page.image }}" alt="" class="img-fluid">
 
 Для этого существует множество техник, одна из них - рефрейминг. Она позволяет перенести негативную эмоцию в другой контекст, по иному оценить ситуацию, которая её спровоцировала.
 

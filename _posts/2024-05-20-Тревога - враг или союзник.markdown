@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: article
 title: "Тревога - враг, или союзник?"
 image: "images/blog/anxiety.jpg"
 facebook_link: "https://www.facebook.com/share/p/rMk84fNwcYb8dKzX/"
@@ -11,8 +11,6 @@ categories: тревога
 Какова же роль тревоги?
 
 <!--more-->
-
-<img src="{{ page.image }}" alt="" class="img-fluid">
 
 Тревога, как и другие эмоциональные состояния, сохранилась эволюционно, чтобы помочь нам выжить.
 Именно она позволяет прогнозируя развитие ситуации заметить опасность и вовремя её избежать. То есть основная её функция защитная.

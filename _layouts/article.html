@@ -102,7 +102,7 @@
             {{ page.excerpt }}
 
             <p>
-              <img src="{{ page.image }}" alt="{{ page.categories }}" class="img-fluid"/>
+                <img src="{{ page.image }}" alt="{{ page.categories | join: ' ' }}" class="img-fluid"/>
             </p>
 
             {{ page.content | remove: page.excerpt }}

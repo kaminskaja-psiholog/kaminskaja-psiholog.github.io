@@ -1,16 +1,14 @@
 ---
-layout: default
+layout: article
 title: "Как простить самого себя?"
 image: "images/blog/forgive_yourself.jpg"
 facebook_link: "https://www.facebook.com/share/p/Ews2rMe3yzgnzBwS/"
-categories: простить
+categories: прощение
 ---
 
 Иногда в жизни случаются ситуации, когда мы делаем то, о чём потом сожалеем.
 
 <!--more-->
-
-<img src="{{ page.image }}" alt="" class="img-fluid">
 
 Воспоминания об этом могут  сопровождаться целым спектром негативных эмоций: чувством вины, стыда, злости, досады... Они могут "накрывать" человека, ему становится тяжело увидеть реальную картину. Возникает ощущение катастрофы.
 

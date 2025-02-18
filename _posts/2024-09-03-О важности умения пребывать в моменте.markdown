@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: article
 title: "О важности умения \"пребывать в моменте\""
 image: "images/blog/in_the_moment.jpg"
 facebook_link: "https://www.facebook.com/permalink.php?story_fbid=pfbid0zzgKVBspCF3qKUuxDt4q6hn3AXiJZxCtMNoezPGbYBYSY2sTbE1tgVhhghfb2WCxl&id=100090928022478"
@@ -9,8 +9,6 @@ categories: в моменте
 Дейл Карнеги однажды сказал: "Груз будущего, прибавленный к грузу прошлого, который вы взваливаете на себя в настоящем, заставляет спотыкаться на пути даже самых сильных".
 
 <!--more-->
-
-<img src="{{ page.image }}" alt="" class="img-fluid">
 
 Давайте спросим себя, как часто мы действительно находимся в настоящем, смакуем приятные моменты, которые дарит жизнь?
 
