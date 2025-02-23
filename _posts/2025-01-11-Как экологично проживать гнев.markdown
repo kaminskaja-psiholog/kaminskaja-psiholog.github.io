@@ -1,6 +1,7 @@
 ---
 layout: article
 title: "Как экологично проживать гнев"
+title2: "Как экологично проживать злость"
 image: "images/blog/anger.jpg"
 facebook_link: "https://www.facebook.com/permalink.php?story_fbid=pfbid02vzYwsCHgWex7nt8ifGpNNEmcBj9y7yy8sVqgkEezfZB38CUrjH6XdDeEiACrdtHul&id=100090928022478"
 categories: гнев
