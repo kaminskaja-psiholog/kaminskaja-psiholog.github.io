@@ -1,6 +1,7 @@
 ---
 layout: article
 title: "Голод, который едой не унять?"
+title2: "Ложный голод"
 image: "images/blog/hunger.jpg"
 facebook_link: "https://www.facebook.com/share/p/eMJjDF8omTAud7y4/"
 categories: тревога
