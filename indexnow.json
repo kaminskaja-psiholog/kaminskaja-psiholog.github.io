@@ -1,0 +1,15 @@
+---
+layout: null
+---
+
+{
+  "host": "www.kaminskaja-psiholog.eu",
+  "key": "6aef3269f4e943c3b6c5d759959be32a",
+  "keyLocation": "https://www.kaminskaja-psiholog.eu/6aef3269f4e943c3b6c5d759959be32a.txt",
+  "urlList": [
+      "{{ site.url }}",
+      {% for post in site.posts %}
+      "{{ site.url }}{{post.url}}"{% if forloop.last == false %},{% endif %}
+      {% endfor %}
+      ]
+}
